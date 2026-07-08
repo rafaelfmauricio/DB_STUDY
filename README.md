@@ -7,3 +7,6 @@ Banco de dados é onde são armazenados as tabelas que posuem os registros (dado
 • Programiz SQL: https://www.programiz.com/sql/online-...
 • W3Schools: https://www.w3schools.com/sql
 • SQLite Online: https://sqliteonline.com/
+## Query
+SELECT first_name FROM customers
+
